@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50948181169"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "50938578360"
+global.ownername = "🐲𒁂🦠 ⚜️ KRXNS!🦇  {𝐒 𝐋 ☘}"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America/Port-au-Prince"
@@ -24,10 +24,10 @@ global.wm = "𝙎-𝙏𝞢𝞜"
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['.']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
